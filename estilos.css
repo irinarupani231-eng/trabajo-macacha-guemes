@@ -1,12 +1,14 @@
 /* Estilos generales */
 
 body {
-    background-image: url("fondo.jpg");
+    background-image: url("img/fondo.jpg");
     background-size: cover;
+    background-position: center;
     background-attachment: fixed;
     color: #4b3525;
     font-family: Arial, sans-serif;
     margin: 0;
+
 }
 
 
